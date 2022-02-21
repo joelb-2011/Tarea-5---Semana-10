@@ -1,0 +1,36 @@
+.header{
+    background-color: blue;
+    float: left;
+    height: 40px;
+    width: 100%;
+}
+
+.sidebar{
+    float: left;
+    width: 25%;
+    height: 400px;
+    background-color: red;
+}
+
+.content{
+    float: left;
+    width: 75%;
+    height: 400px;
+    background-color: yellow;
+}
+
+.footer{
+    float: left;
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 5px;
+    float: left;
+}
